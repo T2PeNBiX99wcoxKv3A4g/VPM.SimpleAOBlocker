@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.0.2](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/compare/0.0.1..0.0.2) - 2026-06-10
+
+### 🐛 Bug Fixes
+
+- Adjust SimpleAOBlocker shader render settings for transparency and queue updates. - ([0c0eb3d](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/commit/0c0eb3d66b7b082769a4056840fb1383ced0af56))
+
+### 📚 Documentation
+
+- Update README with project title and description. - ([28bdf00](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/commit/28bdf004d280d193a047359ab0c289efafbc5220))
+
+### ⚙️ Miscellaneous Tasks
+
+- Bump package version to 0.0.2 - ([a1fa3bf](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/commit/a1fa3bf9ddb73cac18e1b9d41e4b945da8fe2dc4))
+- Update package dependencies to latest versions in manifest and lock files. - ([e0a63b5](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/commit/e0a63b5924eaebea67f3c3869145b7c424e1cba9))
+
+### Action
+
+- Update `CHANGELOG.md` - ([023f42e](https://github.com/T2PeNBiX99wcoxKv3A4g/VPM.SimpleAOBlocker/commit/023f42eb8dde0d7e4c6ae7aa3ec26c226385b0aa))
+
+## New Contributors ❤️
+
+* @github-actions[bot] made their first contribution
+
 ## [0.0.1] - 2026-06-10
 
 ### ⛰️  Features
