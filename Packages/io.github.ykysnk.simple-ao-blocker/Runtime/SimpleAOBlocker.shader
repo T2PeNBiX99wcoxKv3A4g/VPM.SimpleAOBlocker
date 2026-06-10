@@ -7,8 +7,8 @@ Shader "yky/SimpleAOBlocker"
     {
         Tags
         {
-            "RenderType"="Opaque"
-            "Queue"="Geometry-1"
+            "RenderType"="Transparent"
+            "Queue"="AlphaTest+15"
             "VRCFallback"="Hidden"
         }
 
