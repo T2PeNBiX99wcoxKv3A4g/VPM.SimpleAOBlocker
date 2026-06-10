@@ -1,1 +1,3 @@
-# io.github.ykysnk.simple-ao-blocker by vycpjkfhweiqoyszx6gj
+# Simple AO Blocker
+
+A simple shader block ssao effect in vrchat.
