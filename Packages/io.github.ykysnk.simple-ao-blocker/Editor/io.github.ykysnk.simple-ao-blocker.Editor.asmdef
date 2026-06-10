@@ -1,0 +1,14 @@
+{
+  "name": "io.github.ykysnk.simple-ao-blocker.Editor",
+  "references": [
+    "io.github.ykysnk.simple-ao-blocker"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
