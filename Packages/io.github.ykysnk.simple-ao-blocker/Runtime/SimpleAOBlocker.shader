@@ -2,8 +2,6 @@ Shader "yky/SimpleAOBlocker"
 {
     Properties
     {
-        [Header(AO Blocker Mesh Shader)]
-        _Dummy ("No properties needed", Float) = 0
     }
     SubShader
     {
